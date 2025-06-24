@@ -1,0 +1,3 @@
+REACT_APP_API_URL=https://bloxroll-development.onrender.com
+REACT_APP_SOCKET_URL=https://bloxroll-development.onrender.com
+CORS_ORIGIN=["https://bloxroll-development.onrender.com", "https://bloxroll.vercel.app", "https://bloxroll.org", "https://www.bloxroll.org", "http://localhost:3000", "http://localhost:3001", "https://www.roblox.com", "https://users.roblox.com"] 
